@@ -8,3 +8,6 @@ to extract the features from the images and an embedding layer to get a convenie
 The feature vector obtained as output from the encoder part was thrown as an input into the decoder part which constitues of 
 a Long Short Term Memory cell (a kind of RNN) and an embedding layer which outputs a vector of a certain length which will be
 compared by the pre-written caption labels of the training images.
+
+*Please refer to the folder project2 2
+
